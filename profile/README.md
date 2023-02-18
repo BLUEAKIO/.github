@@ -1,14 +1,14 @@
-## Hi there 👋，我们是BC413
+## Hi there 👋，我们是 HoldVoice
 
-主站：https://www.bc413.com
+主站：https://www.holdvoice.com
 
 ## 我们是谁？
 
-BC413是一个小众社区，致力于更好的与玩家联系，目前主要业务处于Minecraft，未来将会有更多的可以讨论的东西
+holdvoice 是一个小众社区，致力于更好的与玩家联系，目前主要业务处于Minecraft，未来将会有更多的可以讨论的东西
 
 ## 如何联系我们？
 
-站内：https://www.bc413.com/misc/contact
+站内：https://www.holdvoice.com/misc/contact
 
 邮件：admin@niuboss123.com
 
