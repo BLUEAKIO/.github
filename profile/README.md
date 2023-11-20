@@ -2,11 +2,11 @@
 
 ## 我们是谁？
 
-holdvoice 是一个小众社区，致力于更好的与玩家联系，目前主要业务处于 Minecraft，未来将会有更多的可以讨论的东西
+HoldVoice 是一个小众社区，致力于更好的与玩家联系，目前主要业务为网站运营，未来将会有更多的可以讨论的东西
 
 ## 如何联系我们？
 
-邮件：admin@niuboss123.com
+邮件：holdvoice@outlook.com
 
 ---
 
